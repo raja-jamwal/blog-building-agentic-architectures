@@ -9,6 +9,10 @@ This repository is the code companion to the **"Building Agents in Python and n8
 
 It contains a complete curriculum of **21 Agentic Design Patterns**, taking you from basic prompt chaining to complex, self-correcting multi-agent swarms using **LangChain** and **LangGraph**. While the code is written in Python, every pattern includes conceptual mappings for implementing the same logic in **n8n**.
 
+Flashcards for revision
+- [LangChain](https://www.mypromind.com/marketplace/deck/a0bdde9f-aa49-47f3-981b-25e601095dfe)
+- [LangGraph](https://www.mypromind.com/marketplace/deck/7291e43e-38fd-464f-a50f-1c88a5c5fc7d)
+
 ## 📂 Repository Structure
 
 The curriculum is divided into two main modules: **LangChain (The Patterns)** and **LangGraph (The Architecture)**.
